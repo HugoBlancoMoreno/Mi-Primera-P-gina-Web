@@ -1,0 +1,30 @@
+body{
+    color: white;
+    background-color: black;
+    font-size: xx-large;
+}
+
+table{
+    color: chartreuse;
+}
+
+th {
+    background-color: #04AA6D;
+    color: white;
+  }
+
+  tr:nth-child(even) {background-color: #b700ff;}
+  
+
+table, th, td {
+    border: 1px solid;
+}
+    td:nth-child(even) {background-color: #b700ff;}
+    
+  
+
+#botonLanzar{
+    color: red;
+    font-size: xx-large;
+    background-color: gold;
+}
